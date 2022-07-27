@@ -5,3 +5,7 @@ This file format is a basic file format that is commonly used in every place and
 
 
 
+The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to.
+
+
+
